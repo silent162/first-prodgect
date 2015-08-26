@@ -1,0 +1,4 @@
+#all folder
+logs/
+#only txt files
+docs/*.txt
